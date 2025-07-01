@@ -1,0 +1,5 @@
+# default_config.py
+
+DEFAULT_API_KEY = "sk-xxxxxx"
+DEFAULT_BASE_URL = "https://example.com/v1"
+DEFAULT_MODEL_NAME = "gemini-2.5-flash"
